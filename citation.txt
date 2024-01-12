@@ -1,0 +1,8 @@
+@article{REPO299,
+    author = "Guo, Meng-Hao and Cai, Jun-Xiong and Liu, Zheng-Ning and Mu, Tai-Jiang and Martin, Ralph R and Hu, Shi-Min",
+    journal = "Computational Visual Media",
+    pages = "187--199",
+    title = "{PCT: Point Cloud Transformer}",
+    volume = "7",
+    year = "2021"
+}
